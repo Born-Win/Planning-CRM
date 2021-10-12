@@ -1,0 +1,1 @@
+I'v provided single component from my app. The main goal of this functionality is a planning of dayly workload for workers in the Vista Paket company on future days. Unfortunately, several files from this component i can't to show you due to agreement, for instance they are config files and anothers. But i hope that it's enough for estimating my skills
